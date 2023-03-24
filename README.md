@@ -1,2 +1,2 @@
 # WassabiApp
-Projeto de desenvolvimento de site para compra de comida japonesa
+Projeto final de desenvolvimento de site para compra de comida japonesa no treinamento JavaWeb pela Netbiis
